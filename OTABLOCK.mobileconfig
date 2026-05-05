@@ -5,7 +5,7 @@
 	<key>ConsentText</key>
 	<dict>
 		<key>default</key>
-		<string>Official OTA Block Profile by iGet Sync.
+		<string>Official iGet Sync OTA Block Profile.
 After installation, head to Software Update and refresh.</string>
 	</dict>
 	<key>PayloadContent</key>
@@ -30,9 +30,9 @@ After installation, head to Software Update and refresh.</string>
 				</dict>
 			</array>
 			<key>PayloadDisplayName</key>
-			<string>LU OTA Update Blocker</string>
+			<string>iGet Sync</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.F3A1B2C4-8D11-4E2A-9F77-1A2B3C4D5E6F</string>
+			<string>com.iget.sync.dnssettings</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
@@ -42,15 +42,15 @@ After installation, head to Software Update and refresh.</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>OTA updates are now turned off for iPhone &amp; iPad.
+	<string>OTA updates are blocked for iPhone and iPad.
 Once installed, open Software Update and refresh.
-Designed with precision by iGet Sync</string>
+Designed by iGet Sync.</string>
 	<key>PayloadDisplayName</key>
-	<string>iGet OTA Update Blocker</string>
+	<string>iGet Sync</string>
 	<key>PayloadIdentifier</key>
-	<string>com.legitunlocks.otablock</string>
+	<string>com.iget.sync.otablock</string>
 	<key>PayloadOrganization</key>
-	<string>iGet Sync </string>
+	<string>iGet Sync</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
