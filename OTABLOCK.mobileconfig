@@ -50,11 +50,11 @@ Designed with precision by iGet Sync</string>
 	<key>PayloadIdentifier</key>
 	<string>com.legitunlocks.otablock</string>
 	<key>PayloadOrganization</key>
-	<string>LegitUnlocks</string>
+	<string>iGet Sync </string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>20505A29-F760-4A2A-8957-92BFEBF10CCE</string>
+	<string>5F5DA5BB-71BE-42C6-A40F-97FACC822993</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
